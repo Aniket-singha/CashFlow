@@ -5,3 +5,6 @@ export default function MyBanks() {
     <div>Mybanks</div>
   )
 }
+
+// 6p>~CD^2X=6hLf
+// X8g$3Jq&7z!V@t4z
